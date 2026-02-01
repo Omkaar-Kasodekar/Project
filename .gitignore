@@ -1,0 +1,13 @@
+patient-encounter-system/tests/__pycache__/test_patients.cpython-310-pytest-9.0.2.pyc
+patient-encounter-system/__pycache__/__init__.cpython-310.pyc
+patient-encounter-system/src/__pycache__/__init__.cpython-310.pyc
+patient-encounter-system/src/patient_encounter_system/__pycache__/__init__.cpython-310.pyc
+patient-encounter-system/src/patient_encounter_system/__pycache__/database.cpython-310.pyc
+patient-encounter-system/src/patient_encounter_system/__pycache__/services.cpython-310.pyc
+patient-encounter-system/src/patient_encounter_system/__pycache__/schemas.cpython-310.pyc
+patient-encounter-system/src/patient_encounter_system/__pycache__/main.cpython-310.pyc
+patient-encounter-system/src/patient_encounter_system/__pycache__/models.cpython-310.pyc
+patient-encounter-system/tests/__pycache__/__init__.cpython-310.pyc
+patient-encounter-system/tests/__pycache__/conftest.cpython-310-pytest-9.0.2.pyc
+patient-encounter-system/tests/__pycache__/test_doctors.cpython-310-pytest-9.0.2.pyc
+patient-encounter-system/tests/__pycache__/test_appointments.cpython-310-pytest-9.0.2.pyc
